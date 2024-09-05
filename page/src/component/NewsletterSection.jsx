@@ -2,7 +2,7 @@ import Letter from "../component/images/Letter.png";
 
 const Newsletter = () => {
   return (
-    <div class="bg-[#F5F5F5] py-16 px-6 font-[sans-serif] rounded-[20px]">
+    <div class="bg-[#F5F5F5] h-[66px] font-[sans-serif] rounded-[20px]">
       <div class="max-w-7xl mx-auto grid md:grid-cols-2 items-center md:gap-6 gap-12">
         <div class="max-md:order-1">
           <h2 class="text-gray-800 text-4xl font-extrabold mb-6">

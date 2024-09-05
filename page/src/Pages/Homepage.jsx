@@ -1,6 +1,7 @@
 import Footer from "../component/Footer";
 import Header from "../component/Header";
 import Newsletter from "../component/NewsletterSection";
+import Smartrfq from "../component/Smartrfq";
 import Hero from "./Hero";
 import Servies from "./Servies";
 
@@ -17,6 +18,10 @@ const Homepage = () => {
 
       <div>
         <Servies />
+      </div>
+      <div>
+<Smartrfq/>
+
       </div>
       <div>
         <Newsletter />
