@@ -26,9 +26,7 @@ const Homepage = () => {
       <div>
         <Newsletter />
       </div>
-      <div>
-        <Footer />
-      </div>
+      
     </div>
   );
 };
