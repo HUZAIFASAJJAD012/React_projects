@@ -21,7 +21,7 @@ const Homepage = () => {
       </div>
       <div>
 <Smartrfq/>
-<Smartrfq/>
+
       </div>
       <div>
         <Newsletter />
