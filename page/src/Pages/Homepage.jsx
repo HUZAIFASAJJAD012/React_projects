@@ -20,7 +20,7 @@ const Homepage = () => {
         <Servies />
       </div>
       <div>
-<Smartrfq/>
+
 
       </div>
       <div>
