@@ -6,7 +6,6 @@ app = Flask(__name__)
 # Route to handle business name generation
 @app.route('/generate-names', methods=['POST'])
 def generate_names():
-    data = request.get_json()
 
     # Extract the business type and keywords
     business_type = data.get('businessType', '')
