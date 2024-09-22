@@ -1,20 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from 'react';
+import Usestate from "./component/usestate";
+import Rule from './component/rule';
 
 function App() {
-  const [count, setCount] = useState('huzaifa');
 
-  const changthis =()=>{
-setCount('huzaifa welocm');
-
-  }
 
   return (
-    <>
-      <h1>{count}</h1>
-      <button onClick={changthis}>click</button>
+    <> 
+    <Usestate/>
+     <Rule/>
     </>
   )
 }
