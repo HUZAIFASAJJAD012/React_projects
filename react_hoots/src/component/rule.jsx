@@ -7,7 +7,7 @@ import { useState } from 'react'
 
 
 const Rule = () => {
-const [Name,setname]=useState('huzaifa')
+const [Name,setname]=useState('huzaifab')
 
 
 
